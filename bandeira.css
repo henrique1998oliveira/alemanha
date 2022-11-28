@@ -1,0 +1,60 @@
+body {
+    background-color: #666;
+  }
+  
+  div {
+    width: 500px;
+    height: 100px;
+  }
+  
+  section {
+    float: left;
+    margin: 50px;
+  }
+  
+  .vertical {
+    width: 75px;
+    height: 150px;
+    float: left;
+  }
+  
+  .grande {
+    height: 150px;
+  }
+  
+  .preto {
+    background-color: black;
+  }
+  
+  .vermelho {
+    background-color: red;
+  }
+  
+  .amarelo {
+    background-color: yellow;
+  }
+  
+  .azul {
+    background-color: blue;
+  }
+  
+  .branco {
+    background-color: white;
+  }
+  
+  .centrado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -40px 0 0 -40px;
+  }
+  
+  .relativo {
+    position: relative;
+  }
+  
+  .redondo {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }

@@ -1,0 +1,27 @@
+.background{
+    background-color: whitesmoke;
+    font-size:10 ;
+    color:black
+    
+    
+  
+
+}
+
+#imgpos {
+	position: absolute; 
+	left: 40px; /* posiciona a 90px para a esquerda */ 
+	top: 30px; /* posiciona a 70px para baixo */
+	}
+
+.p
+ {
+		font-family: Verdana;
+		text-align: justify;
+	 }
+
+.titulo
+{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
